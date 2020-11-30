@@ -66,3 +66,4 @@ def test_zero2():
     actual = lucas(0)
     expected = 2
     assert actual == expected
+
